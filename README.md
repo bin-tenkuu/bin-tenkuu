@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-我是 bin ，是一个dd
+我是 ccr ，是一个dd
 
 [![2938137819's github stats](https://github-readme-stats.vercel.app/api?username=2938137849&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 
