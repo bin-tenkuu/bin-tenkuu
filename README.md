@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**2938137849/2938137849** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bin-tenkuu/bin-tenkuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 我是 ccr ，是一个 dd
 
-[![2938137819's github stats](https://github-readme-stats.vercel.app/api?username=2938137849&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
+[![bin-tenkuu's github stats](https://github-readme-stats.vercel.app/api?username=bin-tenkuu&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2938137849&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bin-tenkuu&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
 - Steam: [2938137849](https://steamcommunity.com/id/2938137849)
 - Twitter: [@tenkuu_bin](https://twitter.com/tenkuu_bin)
