@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bin-tenkuu&show_icons=true&theme=dracula" alt="bin-tenkuu's github stats" />
 </a>
-
+<br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bin-tenkuu&theme=dracula&layout=compact" alt="Top Langs" />
 </a>
