@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bin-tenkuu&theme=dracula&layout=compact" alt="Top Langs" />
 </a>
 
-- QQ： 2938137849
-- bilibili： 
+- QQ：2938137849
+- 知乎：https://www.zhihu.com/people/bin-18-9-83 
 - Steam: [2938137849](https://steamcommunity.com/id/2938137849)
 - Twitter: [@tenkuu_bin](https://twitter.com/tenkuu_bin)
